@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Foti
+# Hi! My name is Foti
 
 12+ years Product manager in tech, building small useful things with AI, code and a bias for shipping.
 
