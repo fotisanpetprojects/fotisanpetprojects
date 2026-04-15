@@ -56,13 +56,3 @@ A Chrome extension that turns the visible layout of a webpage into a stylised Du
 | Communication | Clear READMEs, security writeups, and roadmap notes |
 | Shipping mindset | Small projects that can be opened, tested, and improved |
 
-## GitHub stats
-
-<div align="center">
-
-![Foti GitHub stats](https://github-readme-stats.vercel.app/api?username=fotisanpetprojects&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fotisanpetprojects&layout=compact&hide_border=true&theme=transparent)
-
-</div>
-
