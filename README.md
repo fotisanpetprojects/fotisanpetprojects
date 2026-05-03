@@ -15,6 +15,9 @@ I like building tools to problems I face and I love to learn :)
 
 ## What I'm building
 
+**[Product Maturity Framework for PMs](https://github.com/fotisanpetprojects/product-maturity-framework-for-pms)**  
+An internal assessment tool for PMs to run quarterly product maturity reviews, collect submissions centrally, and compare progress across teams and time.
+
 **[Bookkeeping Admin](https://github.com/fotisanpetprojects/bookkeeping-admin)**  
 A local-first bookkeeping tool for independent professionals and small service businesses in the Netherlands. It covers billing profiles, invoices, expenses, receipts, and quarterly BTW/VAT summaries, hosted locally. 
 
@@ -55,4 +58,3 @@ A Chrome extension that turns the visible layout of a webpage into a stylised Du
 | Technical fluency | Next.js, React, TypeScript, browser extensions, docs |
 | Communication | Clear READMEs, security writeups, and roadmap notes |
 | Shipping mindset | Small projects that can be opened, tested, and improved |
-
