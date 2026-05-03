@@ -11,7 +11,7 @@
 
 </div>
 
-I like building tools to problems I face, and I love to learn. 
+I like building tools to problems I face and I love to learn :) 
 
 ## What I'm building
 
