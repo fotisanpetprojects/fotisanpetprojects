@@ -2,7 +2,7 @@
 
 # Hi! My name is Foti
 
-12+ years Product manager in tech, building small useful things with AI, code and a bias for shipping.
+14+ years Product manager in tech, building small useful things with AI, code and a bias for shipping.
 
 [![Product Management](https://img.shields.io/badge/Product%20Management-111827?style=for-the-badge&logo=linear&logoColor=white)](#)
 [![AI Assisted Delivery](https://img.shields.io/badge/AI%20Assisted%20Delivery-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
